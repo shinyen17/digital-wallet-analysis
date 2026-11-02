@@ -1,4 +1,4 @@
-**# digital-wallet-analysisdigital-wallet-analysis**# Digital Wallet Transaction Analysis
+# Digital Wallet Transaction Analysis
 
 Analysis of 5,000 digital wallet transactions to understand usage patterns, payment failures and the cost of cashback.
 
