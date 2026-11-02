@@ -4,8 +4,6 @@ Analysis of 5,000 digital wallet transactions to understand usage patterns, paym
 
 **Tools:** Python (Pandas, Matplotlib, Seaborn, SciPy) in Google Colab · Microsoft Excel (PivotTables, PivotCharts, slicers)
 
-![Dashboard](dashboard.png)
-
 ## Dataset
 [Digital Wallet Transactions – Kaggle](https://www.kaggle.com/datasets/harunrai/digital-wallet-transactions)
 
